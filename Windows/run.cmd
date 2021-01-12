@@ -1,3 +1,3 @@
 :: echo off
-Apache24\bin\httpd.exe -k start
+"..\Apache24\bin\httpd.exe" -k start
 pause
