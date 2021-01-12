@@ -1,3 +1,9 @@
 logs/
 icons/
 -- Win64 VS16  --
+____*
+
+bin/
+include/
+lib/
+modules/
