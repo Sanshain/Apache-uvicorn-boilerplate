@@ -1,5 +1,5 @@
 ## Apache-uvicorn-boilerplate
-Apache uvicorn boilerplate for Django under Windows
+The simplest apache uvicorn boilerplate for Django under Windows
 
 ### Description:
 
